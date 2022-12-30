@@ -7,5 +7,5 @@ cloud:
       static: ap-south-1
       auto: false
     credentials:
-      access-key: AKIA6OL3U47KW26SENM4
-      secret-key: 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
+      access-key: xxx
+      secret-key: xxx
