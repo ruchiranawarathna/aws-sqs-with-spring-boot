@@ -1,0 +1,11 @@
+server:
+  port: 9091
+
+cloud:
+  aws:
+    region:
+      static: ap-south-1
+      auto: false
+    credentials:
+      access-key: AKIA6OL3U47KW26SENM4
+      secret-key: 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

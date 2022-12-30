@@ -1,0 +1,13 @@
+server:
+  port: 9090
+
+cloud:
+  aws:
+    region:
+      static: ap-south-1
+      auto: false
+    credentials:
+      access-key: AKIA6OL3U47KW26SENM4
+      secret-key: 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
+    sqs:
+      endpoint: https://sqs.ap-south-1.amazonaws.com/992933636053/order-queue
